@@ -1,0 +1,16 @@
+
+ 1722698682566 : ::ffff:127.0.0.1 GET : /api/users 
+
+ 1722698704057 : ::ffff:127.0.0.1 GET : /api/users 
+
+ 1722698722290 : ::ffff:127.0.0.1 GET : /api/users/66adcb8167e4cef1f3a9d99b 
+
+ 1722698735766 : ::ffff:127.0.0.1 PATCH : /api/users/66adcb8167e4cef1f3a9d99b 
+
+ 1722698757510 : ::ffff:127.0.0.1 DELETE : /api/users/66adcb8167e4cef1f3a9d99b 
+
+ 1722698775733 : ::ffff:127.0.0.1 POST : /api/users 
+
+ 1722698852341 : ::ffff:127.0.0.1 POST : /api/users 
+
+ 1722699267161 : ::1 GET : /getUsers 
